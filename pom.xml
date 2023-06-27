@@ -18,6 +18,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>producto-service</module>
+        <module>order-service</module>
+        <module>order-service</module>
     </modules>
 
     <properties>
